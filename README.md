@@ -1,12 +1,12 @@
 # Employee Salary Prediction using Machine Learning
-## Overview**
+## Overview
 
 * This project predicts the salary of an employee based on their experience, age, education level, and job title.
 I chose this project out of curiosity—when meeting a new person, I often wonder how much they might be earning based on their background, and this model helps quantify that intuition using data.
 
-The project uses a Random Forest Regressor trained on a Kaggle dataset and includes a complete machine learning pipeline with preprocessing, model training, evaluation, and deployment support using Flask, Pipenv, Docker, and Gunicorn.
+* The project uses a Random Forest Regressor trained on a Kaggle dataset and includes a complete machine learning pipeline with preprocessing, model training, evaluation, and deployment support using Flask, Pipenv, Docker, and Gunicorn.
 
-**Dataset**
+## Dataset
 
 Source: Kaggle - Salary_Data
 Rows: 6702
@@ -22,20 +22,20 @@ Columns: 6
 | Salary              | Annual salary (target variable) |
 
 
-**Technologies Used**
+## Technologies Used
 
-Python,
-Pandas,
-NumPy,
-Matplotlib,
-Seaborn,
-Scikit-learn,
-Jupyter Notebook,
-Pipenv,
-Docker,
-Flask,
-Gunicorn
-
+  * Python
+  * Pandas
+  * NumPy
+  * Matplotlib
+  * Seaborn
+  * Scikit-learn
+  * Jupyter Notebook
+  * Pipenv
+  * Docker
+  * Flask
+  * Gunicorn
+ 
 ## Preprocessing
 
 The following preprocessing steps were applied:
