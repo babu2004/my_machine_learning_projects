@@ -24,14 +24,14 @@ Columns: 6
 
 **Technologies Used**
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-Jupyter Notebook
-Pipenv
-Docker
-Flask
-Gunicorn
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
+Scikit-learn,
+Jupyter Notebook,
+Pipenv,
+Docker,
+Flask,
+Gunicorn,
