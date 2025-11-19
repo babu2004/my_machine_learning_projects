@@ -52,3 +52,9 @@ The final model achieved:
 R² Score: 0.9821614849153605
 
 This indicates excellent predictive performance and strong generalization on unseen data.
+
+## Setup
+### Local Setup
+**Clone the Repository:**
+git clone https://github.com/ babu2004/my_machine_learning_projects.git
+cd my_machine_learning_projects
