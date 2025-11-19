@@ -59,3 +59,23 @@ This indicates excellent predictive performance and strong generalization on uns
 ```bash
 git clone https://github.com/ babu2004/my_machine_learning_projects.git
 cd my_machine_learning_projects
+```
+**Set Up the Python Environment:**
+Using pipenv (Recommended)
+* Install Pipenv using your system's package manager (preferred for Debian-based systems):
+```bash
+sudo apt install pipenv
+```
+Alternatively, you can install Pipenv via pip:
+```bash
+pip install pipenv
+```
+* Install the dependencies with pipenv:
+``` bash
+pipenv install
+```
+* Activate the pipenv shell:
+``` bash
+pipenv shell
+```
+
