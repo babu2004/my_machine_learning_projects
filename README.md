@@ -2,7 +2,7 @@
 ## Overview
 
 * This project predicts the salary of an employee based on their experience, age, education level, and job title.
-I chose this project out of curiosity—when meeting a new person, I often wonder how much they might be earning based on their background, and this model helps quantify that intuition using data.
+I chose this project out of curiosity—when meeting a new person, I often wonder how much they might be earning based on their background, also i feel it awkward to ask them how much you earn and this model helps quantify that intuition using data. and also it help to know the market value of their job role.
 
 * The project uses a Random Forest Regressor trained on a Kaggle dataset and includes a complete machine learning pipeline with preprocessing, model training, evaluation, and deployment support using Flask, Pipenv, Docker, and Gunicorn.
 
@@ -19,7 +19,7 @@ Columns: 6
 | Education Level     | Bachelor's, Master's, PhD, etc. |
 | Job Title           | Employee role                   |
 | Years of Experience | Total work experience           |
-| Salary              | Annual salary (target variable) |
+| Salary              | monthly salary in indian rupees (target variable) |
 
 
 ## Technologies Used
